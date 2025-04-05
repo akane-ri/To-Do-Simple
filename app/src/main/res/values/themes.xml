@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDoSimple" parent="Theme.Material3.Light.NoActionBar">
+        <item name="fontFamily">@font/jura</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:statusBarColor">@color/darkPurple</item>
+    </style>
+
+    <style name="Theme.ToDoSimple" parent="Theme.Material3.Light.NoActionBar">
+        <item name="fontFamily">@font/jura</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="DarkThemeToDoSimple" parent="Theme.Material3.Light.NoActionBar">
+        <item name="fontFamily">@font/jura</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="buttonToDo">
+        <item name="background">@drawable/background_button</item>
+    </style>
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>>
+    </style>
+</resources>

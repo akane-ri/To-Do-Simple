@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">To-Do Simple</string>
+    <string name="email">Email-address</string>
+    <string name="password">Password</string>
+    <string name="forgotPassword"><u>Forgot password?</u></string>
+    <string name="login">Login</string>
+    <string name="createAccountUnderline"><u>Create account</u></string>
+    <string name="content">content</string>
+    <string name="name">Name</string>
+    <string name="successesResetPassword">The password reset link has been successfully sent</string>
+    <string name="invalid_credentials_error">The account is not registered at this e-mail address</string>
+    <string name="invalid_user_error">The user has not been found, or the account has been blocked or deleted</string>
+    <string name="unknown_error">Unknown error, please contact technical support</string>
+    <string name="google">Google</string>
+    <string name="registration">Registration</string>
+    <string name="changePassword">Password Reset</string>
+    <string name="changedPassword">Change your password</string>
+    <string name="change_password_hint">We will send you an email with the password reset method</string>
+    <string name="escape">Log out</string>
+    <string name="task_name">Task name</string>
+    <string name="add_task">Add</string>
+    <string name="category">Category</string>
+    <string name="theme">Theme:</string>
+    <string name="language">Language:</string>
+    <string name="connect_todo">Connect to the list</string>
+    <string name="type_todo">Enter the list number</string>
+    <string name="success_copy">The list number has been copied</string>
+    <string name="time_10">10:00</string>
+    <string name="category_name">Category name</string>
+    <string name="default_web_client_id">251314888063-1q5qujdnq0m0j8v4knkrqmn7euiagf83.apps.googleusercontent.com</string>
+    <string name="update">Update</string>
+    <string name="createAccount">Create account</string>
+    <string name="press_to_copy">Copy the number of your list</string>
+    <string name="share_list">To share the list, set a password:</string>
+    <string name="set_password">Set a password</string>
+    <string name="number_list">List number</string>
+    <string name="passwordAcc">Account password</string>
+    <string name="passwordNew">New password</string>
+    <string name="passwordSet">The password is set</string>
+    <string name="return_list">Go back to your list</string>
+    <string name="connect_list_your">You are connected to your list</string>
+    <string name="connect_list">You are connected to list: </string>
+    <string name="error_connect_list">The user did not share the list</string>
+    <string name="error_connect_user">A user with such a list was not found</string>
+    <string name="error_password">You entered the wrong password</string>
+
+
+    <string name="error_fieldinput">Please fill in the field</string>
+    <string name="error_authentication_failed">Authentication failed</string>
+    <string name="error_google_sign_in_failed"> Google sign in failed</string>
+    <string name="error_sign_out_failed">Exit error. Try again.</string>
+</resources>

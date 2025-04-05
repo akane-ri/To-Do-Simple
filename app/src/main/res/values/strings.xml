@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">To-Do Simple</string>
+    <string name="email">Email-адрес</string>
+    <string name="password">Пароль</string>
+    <string name="forgotPassword"><u>Забыли пароль?</u></string>
+    <string name="login">Войти</string>
+    <string name="createAccountUnderline"><u>Создать аккаунт</u></string>
+    <string name="content">content</string>
+    <string name="name">Имя</string>
+    <string name="successesResetPassword">Ссылка для сброса пароля успешно отправлена</string>
+    <string name="invalid_credentials_error">На данный e-mail адресс аккаунт не зарегистрирован</string>
+    <string name="invalid_user_error">Пользователь не найден, или учетная запись была заблокирована или удалена</string>
+    <string name="unknown_error">Неизвестная ошибка, обратитесь в тех. поддержку</string>
+    <string name="google">Google</string>
+    <string name="registration">Регистрация</string>
+    <string name="changePassword">Сброс пароля</string>
+    <string name="changedPassword">Сменить пароль</string>
+    <string name="change_password_hint">Мы пришлем на вашу почту письмо со способом сброса пароля</string>
+    <string name="escape">Выйти из аккаунта</string>
+    <string name="task_name">Название задачи</string>
+    <string name="add_task">Добавить</string>
+    <string name="category">Категория</string>
+    <string name="theme">Тема:</string>
+    <string name="language">Язык:</string>
+    <string name="connect_todo">Подключение к списку</string>
+    <string name="type_todo">Введите номер списка</string>
+    <string name="success_copy">Номер списка скопирован</string>
+    <string name="time_10">10:00</string>
+    <string name="category_name">Название категории</string>
+    <string name="default_web_client_id">251314888063-1q5qujdnq0m0j8v4knkrqmn7euiagf83.apps.googleusercontent.com</string>
+    <string name="update">Обновить</string>
+    <string name="createAccount">Создать аккаунт</string>
+    <string name="press_to_copy">Скопировать номер списка</string>
+    <string name="share_list">Чтобы поделиться своим списком, установите пароль:</string>
+    <string name="set_password">Установить пароль</string>
+    <string name="number_list">Номер списка</string>
+    <string name="passwordAcc">Пароль от аккаунта</string>
+    <string name="passwordNew">Новый пароль</string>
+    <string name="passwordSet">Пароль установлен</string>
+    <string name="return_list">Вернуться к своему списку</string>
+    <string name="connect_list_your">Вы подключены к своему списку</string>
+    <string name="connect_list">Вы подключены к списку: </string>
+    <string name="error_connect_list">Пользователь не делился списком</string>
+    <string name="error_connect_user">Пользователь с таким списком не найден</string>
+    <string name="error_password">Вы ввели неверный пароль</string>
+
+
+    <string name="error_fieldinput">Пожалуйста, заполните поле</string>
+    <string name="error_authentication_failed">Аутентификация не удалась, возможно, такого аккаунта не существует или неверный пароль</string>
+    <string name="error_google_sign_in_failed">Ошибка входа через Google</string>
+    <string name="error_sign_out_failed">Ошибка выхода. Попробуйте снова</string>
+</resources>

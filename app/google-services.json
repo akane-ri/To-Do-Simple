@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251314888063",
+    "firebase_url": "https://todo-simple-akane-default-rtdb.firebaseio.com",
+    "project_id": "todo-simple-akane",
+    "storage_bucket": "todo-simple-akane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251314888063:android:c2e8235661f498e1b48e4a",
+        "android_client_info": {
+          "package_name": "com.example.todosimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251314888063-1q5qujdnq0m0j8v4knkrqmn7euiagf83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todosimple",
+            "certificate_hash": "c9027dbca80840bc02d69724d5d041be74f3b1da"
+          }
+        },
+        {
+          "client_id": "251314888063-5g4tgte6rs0d86s879lljpmkj4nsm512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3irNDovv9dg1uD609A3-fEoIpv5Q32LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251314888063-5g4tgte6rs0d86s879lljpmkj4nsm512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
